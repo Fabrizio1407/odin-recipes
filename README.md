@@ -1,1 +1,2 @@
 # odin-recipes
+Un breve esercizio più che altro per impratichirmi con git da linea di comando e strutturare un HTML di base anche se già lo conosco, oltre che per consentirmi di proseguire nei successivi progetti di questo corso.
